@@ -7,3 +7,5 @@ In this repository you will find:
 
 You can access the dataset in the link: 
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XBZHKC
+
+Please feel free to contact me at mariel.yacolcamaguina@mail.mcgill.ca if you have any questions regarding this research project. 
