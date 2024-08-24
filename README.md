@@ -5,4 +5,5 @@ In this repository you will find:
   1. A PDF titled ECON 468 Research Report_Final.pdf that contains the literature review, methodology, regression tables, and conclusion from the study.
   2. A .R file titled Project_Code.R that contains all the code (data cleaning, manipulation, and regressions) that were used in this project.
 
-You can the dataset in the link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XBZHKC
+You can access the dataset in the link: 
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XBZHKC
